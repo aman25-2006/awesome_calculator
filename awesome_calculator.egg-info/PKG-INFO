@@ -1,8 +1,10 @@
 Metadata-Version: 2.4
 Name: awesome-calculator
-Version: 1.1.0
-Summary: A colorful command-line calculator in Python
-Author: Your Name
+Version: 1.2.0
+Summary: A colorful CLI calculator with math operations and colorama
+Home-page: https://github.com/abhigyan-709/awesome_calculator
+Author: Project DevOps
+Author-email: projectdevops709@gmail.com
 License: MIT
 Classifier: Programming Language :: Python :: 3
 Classifier: License :: OSI Approved :: MIT License

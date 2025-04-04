@@ -21,7 +21,7 @@ def addition():
     add_list = []
 
     for i in range(addition_number):
-        number = int(input(Fore.CYAN + "Enter the number: "))
+        number = int(input(Fore.CYAN + "Enter the number you want to add: "))
         add_list.append(number)
 
     print(Fore.GREEN + f"Addition of the numbers {add_list} is {sum(add_list)}")
